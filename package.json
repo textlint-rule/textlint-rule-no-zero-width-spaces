@@ -1,17 +1,17 @@
 {
   "name": "textlint-rule-no-zero-width-spaces",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "textlint rule that disallow zero width spaces.",
   "keywords": [
     "textlintrule"
   ],
-  "homepage": "https://github.com/hata6502/textlint-rule-no-zero-width-spaces#readme",
+  "homepage": "https://github.com/textlint-rule/textlint-rule-no-zero-width-spaces#readme",
   "bugs": {
-    "url": "https://github.com/hata6502/textlint-rule-no-zero-width-spaces/issues"
+    "url": "https://github.com/textlint-rule/textlint-rule-no-zero-width-spaces/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hata6502/textlint-rule-no-zero-width-spaces.git"
+    "url": "git+https://github.com/textlint-rule/textlint-rule-no-zero-width-spaces.git"
   },
   "funding": {
     "type": "github",
